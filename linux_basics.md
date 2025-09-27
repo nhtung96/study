@@ -1,4 +1,4 @@
-# Linux Command Cheat Sheet for Infrastructure Engineers (IaaS v2.0 / Edge)
+# Linux Command Cheat Sheet 
 
 ## 🖥️ System Management
 - `uname -a` → Kernel & OS info  
