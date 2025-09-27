@@ -71,7 +71,7 @@
 
 ---
 
-## ☁️ Cloud & Edge (IaaS v2.0)
+## ☁️ Cloud & Edge 
 - **OpenStack CLI**:  
   - `openstack server list`  
   - `openstack network list`  
