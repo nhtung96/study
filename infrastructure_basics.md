@@ -17,7 +17,7 @@
 
 ---
 
-## 2. Networking Basics (Your Strength 💪)
+## 2. Networking Basics 
 - **IP / Routing**
   - `ip addr`, `ip route`, `ping`, `traceroute`
 - **DNS**
